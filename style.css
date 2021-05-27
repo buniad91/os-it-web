@@ -1,0 +1,18 @@
+body{
+    margin: auto 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: p;
+} 
+.navbar{
+    /* margin-top: 100px; */
+    padding-top: 28px !important;
+    padding-bottom: 28px !important;
+}
+
+
+
+/* --------------drop down  menu style----- */
+.dropdown-menu{
+    background-color: aquamarine;
+}
